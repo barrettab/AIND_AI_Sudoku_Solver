@@ -1,7 +1,7 @@
 # AIND_AI_Sudoku_Solver
 
 Quickstart Guide
-YOU ONLY NEED TO WRITE CODE IN solution.py.
+
 
 Follow the instructions in the classroom lesson to install and configure the aind Anaconda environment which includes several important packages that are used for the project. OS X or Unix/Linux users can activate the aind environment by running the following (Windows users simply run activate aind):
 
